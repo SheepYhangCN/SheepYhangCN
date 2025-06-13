@@ -5,7 +5,10 @@
 SheepYhangCN a.k.a. 憨憨羊の宇航鸽鸽
 * `Translator` `Video Creator` `Game Developer` `Minecraft Commander`
 * Student at school, major in Computer Network Technology
-* Write some code & make some games & do some localization work after class
+* Do something I'd like to do after class
+  * Write some code
+  * Make some games
+  * Do some localization work
 * `C#` `Python` `GameMaker` `Godot`
 
 Languages
