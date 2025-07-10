@@ -9,17 +9,28 @@ SheepYhangCN a.k.a. 憨憨羊の宇航鸽鸽
   * Write some code
   * Make some games
   * Do some localization work
-* `C#` `Python` `GameMaker` `Godot`
+* `Godot` `GameMaker`
 
 Languages
-* English
-* Chinese
-  * Simplified
-  * Traditional
-  * Mandarin
-  * Cantonese
+* Written
+  * English
+  * Chinese
+    * Simplified
+    * Traditional
+* Spoken
+  * English
+  * Chinese
+    * Mandarin
+    * Cantonese
+* Programming
+  * C#
+  * Python
+  * GDScript
+  * GameMaker Language
+  * mcfunction (?)
 
 Currently learning `Japanese` and `C++`
+
 * Contact me: contact@sheepyuhang.top
 * Social networks: https://lit.link/sheepyuhang
 * Blog (Chinese only): https://sheepyuhang.top
