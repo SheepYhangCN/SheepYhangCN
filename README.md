@@ -27,6 +27,8 @@ Languages
   * Python
   * GDScript
   * GameMaker Language
+  * HTML & CSS
+  * Markdown
   * mcfunction (?)
 
 Currently learning `Japanese` and `C++`
