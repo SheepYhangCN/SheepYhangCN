@@ -37,4 +37,4 @@ Currently learning `Japanese` and `C++`
 
 * Contact me: contact@sheepyuhang.top
 * Social networks: https://lit.link/sheepyuhang
-* Blog (Chinese only): https://sheepyuhang.top
+* Blog (Chinese only): https://blog.sheepyuhang.top
