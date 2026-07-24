@@ -6,7 +6,7 @@
 
 SheepYhangCN a.k.a. 憨憨羊の宇航鸽鸽
 * `Translator` `Video Creator` `Game Developer` `Minecraft Commander`
-* Student at school, major in Computer Network Technology
+* Student at school, major in Software Engineering
 * Do something I'd like to do after class
   * Write some code
   * Make some games
